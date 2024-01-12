@@ -1,0 +1,37 @@
+.Caja {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  border-radius: 16px;
+  background-color: #6b7280;
+}
+
+.Bg-color {
+  background-color: blue;
+}
+
+.Bg-img {
+  background: url(./Imágenes/Luffy.jpg) center/ cover;
+}
+
+.Bg-repeat {
+  background-image: url(./Imágenes/bg-repeat.png);
+  background-repeat: repeat;
+}
+
+.Bg-attachment {
+  background-image: url(./Imágenes/One-Piece-Logo.jpg);
+  background-attachment: fixed;
+}
+
+.Bg-position {
+  background: url(./Imágenes/El\ rey\ de\ los\ piratas.webp) center/ cover;
+}
+
+.Bg-size {
+  background: url(./Imágenes/One-Piece-Logo.jpg) center/cover;
+}
+
+.Color p {
+  color: yellow;
+}
